@@ -1,7 +1,8 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.scss';
-import App from './app/App';
+//Dependencies
+import React from 'react';  //node-module
+import ReactDOM from 'react-dom/client'; //node-module
+import './index.scss'; //css
+import App from './app/App'; //jsx,js
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
